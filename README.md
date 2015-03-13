@@ -1,7 +1,7 @@
 rectangular.js
 ==============
 
-reactangular.js is a client side, fully reactive javascript templating language for Angular.js
+reactangular.js is a client side, fully reactive javascript templating language for React.js
 
 ## Examples
 
